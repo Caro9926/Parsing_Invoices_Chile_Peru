@@ -14,7 +14,7 @@ The scripts support PDF files with varied formatting (encrypted or unencrypted) 
 To maintain consistency, the repository follows a defined folder structure for organizing input PDFs and exported data.  
 A diagram is included:
 
-📌 **`PDF_Folder_Structure.png`** – Visual reference of the folder organization.
+## <img src="https://github.com/Caro9926/Parsing_Invoices_Chile_Peru/blob/master/PDF_Folder_Structure.png" width="100"> – Visual reference of the folder organization.
 
 ## 🧪 Examples
 
